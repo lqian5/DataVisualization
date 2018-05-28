@@ -1,4 +1,4 @@
-MSAN 622 Visualization Class Final Project
+## Visualization Final Project
 
 Website: https://lqian5.github.io/Project_Visualization/ 
 
