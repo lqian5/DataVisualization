@@ -1,6 +1,6 @@
 ## Visualization Final Project
 
-Website: https://lqian5.github.io/Project_Visualization/ 
+Website: https://lqian5.github.io/Project_DataVisualization/
 
 Creator: Qian Li
 
